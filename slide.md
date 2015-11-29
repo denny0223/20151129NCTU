@@ -147,7 +147,7 @@ Kernel commit - <br />
 
 --
 
-[Scrabble](https://github.com/denny0223/scrabble)
+# [Scrabble](https://github.com/denny0223/scrabble)
 
 --
 
